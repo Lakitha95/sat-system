@@ -1,0 +1,1 @@
+<h1>THIS IS TESTING HEADING</h1><table border='1'><?php for($x=0;$x<10;$x++){ ?><tr><td style='color:red;'>TESTING</td><td>TESTING</td></tr><?php } ?></table>
