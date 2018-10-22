@@ -22,7 +22,7 @@ class User extends CI_Controller {
     }
 
     public function add() {
-        $this->load->view('user/add');
+//        $this->load->view('user/add');
     }
 
     public function addUser() {
